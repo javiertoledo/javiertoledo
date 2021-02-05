@@ -1,7 +1,7 @@
 # Hello World 👋
 
 I'm a Software Engineer from [the beautiful Canary Islands (Spain)](https://www.hellocanaryislands.com),
-an amazing place that [is becoming a hot spot for remote workets and digital nomads](https://www.repeople.co).
+an amazing place that [is becoming a hot spot for remote workers and digital nomads](https://www.repeople.co).
 
 I'm one of the founders and CTO at [The Agile Monkeys](https://www.theagilemonkeys.com),
 an [asynchronous (remote)](https://medium.com/the-theam-journey/asynchronous-communication-the-key-to-effective-remote-work-ab53f3c405f4) software development company with [unparalleled culture](https://medium.com/the-theam-journey/curtain-up-b31cc4a8bc05), 
