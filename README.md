@@ -9,16 +9,9 @@ where [very diverse ideas fly and thrive](https://www.linkedin.com/pulse/become-
 
 > We're always hiring, so don't hesitate to [send us an email to check what we can offer to you](mailto:hiring@theagilemonkeys.com)!
 
-I'm currently working on the [Booster Ecosystem](https://booster.cloud) :rocket:,
-a toolkit to boost the development of applications in the cloud, with a strong focus on Event-Sourcing and Event-Driven applications.
-
-The [Booster Framework](https://framework.booster.cloud) is an [open-source project](https://github.com/boostercloud/booster),
-and is being developed openly in [our Discord server](https://discord.gg/vfbk2SYH).
-Join us and make your dent in the future of cloud computing!
-
 ## Contact
 
-You can easily find me in the internet:
+You can easily find me on the internet:
 * Twitter [@javier_toledo](https://twitter.com/javier_toledo) (My DMs are open)
 * [Linkedin](https://www.linkedin.com/in/javiertoledomediavilla/)
 * [Medium](https://medium.com/@javier_toledo)
