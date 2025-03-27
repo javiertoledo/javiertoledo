@@ -12,6 +12,6 @@ where [very diverse ideas fly and thrive](https://www.linkedin.com/pulse/become-
 ## Contact
 
 You can easily find me on the internet:
-* Twitter [@javier_toledo](https://twitter.com/javier_toledo) (My DMs are open)
+* [@javier_toledo (on X)](https://x.com/javier_toledo)
 * [Linkedin](https://www.linkedin.com/in/javiertoledomediavilla/)
 * [Medium](https://medium.com/@javier_toledo)
